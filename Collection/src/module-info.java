@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author WonKyu
+ *
+ */
+module Collection {
+}
